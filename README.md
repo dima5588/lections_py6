@@ -1,1 +1,0 @@
-# lections_py6
